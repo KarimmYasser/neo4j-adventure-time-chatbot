@@ -1,0 +1,7 @@
+neo4j
+python-dotenv
+requests
+langchain
+langchain-ollama
+langchain-openai
+langchain-groq

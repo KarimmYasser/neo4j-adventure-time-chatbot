@@ -1,0 +1,100 @@
+Finn Mertens belongs to the Candy Kingdom.
+Finn Mertens has class Hero.
+Jake The Dog belongs to the Candy Kingdom.
+Jake The Dog has class Magic Dog.
+Princess Bubblegum rules over the Candy Kingdom.
+Princess Bubblegum has class Scientist.
+Marceline The Vampire Queen lives in the Cave.
+Marceline The Vampire Queen has class Vampire.
+Marceline The Vampire Queen is allied with Princess Bubblegum.
+Ice King lives in the Ice Kingdom.
+Ice King has class Wizard.
+Ice King is enemies with Finn Mertens.
+BMO lives in the Tree Fort.
+BMO has class Robot.
+The Tree Fort is in the Grass Lands.
+Finn Mertens lives in the Tree Fort.
+Jake The Dog lives in the Tree Fort.
+Lumpy Space Princess lives in Lumpy Space.
+Lumpy Space Princess belongs to the Royalty.
+The Lich is enemies with the Candy Kingdom.
+The Lich lives in the Time Room.
+Flame Princess rules over the Fire Kingdom.
+Flame Princess has class Elemental.
+Peppermint Butler serves Princess Bubblegum.
+Peppermint Butler is allied with the Dark Arts.
+Prismo lives in the Time Room.
+Prismo has class Wishmaster.
+Lemongrab rules over Castle Lemongrab.
+Lemongrab is enemies with Princess Bubblegum.
+Finn Mertens is allied with Jake The Dog.
+Lady Rainicorn belongs to the Crystal Dimension.
+Lady Rainicorn is allied with Princess Bubblegum.
+Lady Rainicorn has class Rainicorn.
+Princess Bubblegum belongs to the Candy Elementals.
+Flame Princess belongs to the Fire Elementals.
+Slime Princess rules over the Slime Kingdom.
+Slime Princess belongs to the Slime Elementals.
+Slime Princess has class Elemental.
+Patience St. Pim belongs to the Ice Elementals.
+Patience St. Pim has class Elemental.
+Hunson Abadeer rules over the Nightosphere.
+Hunson Abadeer has class Demon.
+Marceline The Vampire Queen is allied with Hunson Abadeer.
+The Nightosphere is in the Underworld.
+Magic Man lives in Mars.
+Magic Man has class Wizard.
+King of Mars rules over Mars.
+King of Mars has class Deity.
+Grob Gob Glob Grod serves King of Mars.
+Grob Gob Glob Grod lives in Mars.
+Betty Grof has class Human.
+Betty Grof is allied with Simon Petrikov.
+Simon Petrikov has class Human.
+Simon Petrikov is allied with Marceline The Vampire Queen.
+Tree Trunks lives in the Apple Orchard.
+Tree Trunks has class Elephant.
+Mr. Pig is allied with Tree Trunks.
+Mr. Pig lives in the Apple Orchard.
+Sweet P lives in the Apple Orchard.
+Sweet P has class Lich Reincarnation.
+The Enchiridion is in the Mount Cragdor.
+Finn Mertens is allied with The Enchiridion.
+Martin Mertens has class Human.
+Martin Mertens is enemies with Finn Mertens.
+Minerva Campbell lives in Founders Island.
+Minerva Campbell has class Doctor.
+Founders Island is in the Ocean.
+Susan Strong lives in Beautopia.
+Susan Strong has class Hyooman.
+Beautopia is in the Underground.
+Frieda lives in Founders Island.
+Fern has class Grass Demon.
+Fern is enemies with Finn Mertens.
+GOLB has class Chaos Deity.
+GOLB is enemies with Ooo.
+Candy Kingdom is in Ooo.
+Ice Kingdom is in Ooo.
+Fire Kingdom is in Ooo.
+Slime Kingdom is in Ooo.
+Breakfast Kingdom is in Ooo.
+Breakfast Princess rules over the Breakfast Kingdom.
+Cinnamon Bun serves Flame Princess.
+Cinnamon Bun lives in the Fire Kingdom.
+Rattleballs lives in the Candy Kingdom Dump.
+Rattleballs has class Robot.
+Rattleballs is allied with Princess Bubblegum.
+James serves Princess Bubblegum.
+James has class Candy Person.
+Choose Goose lives in the Grass Lands.
+Choose Goose has class Merchant.
+Neptr lives in the Tree Fort.
+Neptr has class Robot.
+Neptr is allied with Ice King.
+Gunther serves Ice King.
+Gunther has class Penguin.
+Gunther is allied with GOLB.
+Cosmic Owl lives in the Cosmic Motel.
+Cosmic Owl has class Cosmic Entity.
+Cosmic Owl is allied with Prismo.
+Flame King is enemies with Flame Princess.
